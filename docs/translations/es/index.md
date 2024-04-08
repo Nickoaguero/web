@@ -3,8 +3,7 @@ title: ¡Bienvenido!
 sidebar_label: ¡Bienvenido!
 ---
 
-¡Bienvenido a la wiki de SA:MP, mantenida por el equipo de open.mp y la extensa comunidad de SA:MP!
-
+¡Bienvenid
 Éste sitio tiene como objetivo proveer acceso y la posibilidad de contribuir a la documentación de SA:MP (y, eventualmente, open.mp).
 
 ## La Wiki de SA:MP cerró
